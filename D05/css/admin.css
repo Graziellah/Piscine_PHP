@@ -1,0 +1,20 @@
+body{
+}
+#banniere_BO{
+	height:20%;
+	font-size: 5vw;
+	color: White;
+	padding-top:auto;
+	text-align:center;
+	background-color:#0ABAB5;
+}
+#logout{
+	padding-top:10px;
+	padding-right:10px;
+	float:right;
+}
+#user img{
+	position: center;
+	position: absolute;
+	height:10%;
+}

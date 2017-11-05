@@ -1,0 +1,96 @@
+
+		body {
+			background-image: url("https://d1n7iqsz6ob2ad.cloudfront.net/document/landing/635x200/54cf8cb1d34c0.jpeg");
+		}
+		h1 {
+			color:white;
+			text-align: right;
+		}
+		hr {
+			color:grey;
+			width: 100%;
+		}
+		p{
+			text-align: center;
+			font-family: monospace;
+		}
+		td{
+			text-align: center;
+			border: 1px solid black;
+			width: 5%;
+		}
+		.letter{
+			font-size: 2vw;
+			text-align: center;
+			font-weight: bold;
+		}
+		table{
+			width: 100%;
+		}
+		.number td, .col-num{
+			border: none;
+		}
+		.alcalins{
+			background-color: #E70739;
+		}
+		.alcalino-terreux{
+			background-color:#FFDA8C;
+		}
+		.metaux-transition{
+			background-color:#FFB6B8;
+		}
+		.metaux-pauvre{
+			background-color:#A2B5BF;
+		}
+		.metalloides{
+			background-color:#BD8D46;
+		}
+		.autre-metaux{
+			background-color: #8FCF3C;
+		}
+		.halogenes{
+			background-color:#FFF168;
+		}
+		.gaz-nobles{
+			background-color: #5EB6DD;
+		}
+		.produit{
+			border: 3px dashed black;
+		}
+		.element-synthetique{
+			border: 3px solid orange;
+		}
+		.vide{
+			border:none;
+		}
+		.lanthanides{
+			background-color:#8E3557;
+		}
+		.Actinides{
+			background-color: #4A1A2C;
+		}
+		.non-classe{
+			background-color: #CCCCCC;
+		}
+		thead td{
+			border:none;
+			font-size: 3vw;
+
+		}
+		.number p{
+			position: relative;
+			font-size: 1vw;
+		}
+		.atomic{
+			text-align: right;
+			margin-bottom: 2%;
+			margin-top: 2%;
+			font-size: 0.5vw;
+
+		}
+		.rank{
+			float: left;
+			margin-bottom: 2%;
+			margin-top: 2%;
+			font-size: 0.5vw;
+		}
